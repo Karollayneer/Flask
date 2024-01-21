@@ -1,0 +1,12 @@
+/* css hub */
+
+/* tools */
+@import url("reset.css");
+
+/* page : basic css */
+body {
+    background-color: #17202A;
+    color: white;
+}
+
+
