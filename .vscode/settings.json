@@ -1,0 +1,5 @@
+{
+    "accessibility.accessibleView.closeOnKeyPress": true,
+    "accessibility.alert.format": "userGesture",
+    "accessibility.hideAccessibleView": false
+}
