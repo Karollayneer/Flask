@@ -1,6 +1,6 @@
 import requests, json
 
-ep = "http://127.0.0.1:5000/showdata"
+ep = "http://127.0.0.1:9999/showdata"
 re = requests.get(ep)
 di = re.json()
 print(di)
